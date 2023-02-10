@@ -12,27 +12,56 @@ Wander through a surreal landscape where each object represents a distinct shade
 With a select few parameters, you can personalize your journey and delve into a kaleidoscope of sensory wonder, where the beauty of emotion is expressed through the artistry of light and sound.
 
 
-## How to use
+## How to install
 
 Download the latest release and install it in the op-z app.
 
 
+## How to use
+
+This videopak lets you explore four sound objects that represent different shades and shapes.
+To swicth between them use button 1 on the motion track.
+
+You can use the kaleidoscope to get immersed by the interplay of rythm and colour.
+To toggle kaleidoscope use button 2 on the motion track.
+
+By tweaking a few selected parameters you can dive deep into the experience and make it your won.
+To change the parameters turn one of the four knobs on page 1 of the motion track.
+
+The rest of the pak reacts to the music that is playing.
+
+
 ## Parameters
 
-### Scene
+### Drum Tracks
 
-The center of this videopak are the four objects that represent different interpretations of shape and colour.
-You can toggle between them using button 1 on the motion track.
-
-To enable kaleidoscope use button 2 on the motion track.
-
-To interact with the scene use one of the four knobs on page on of the motion track.
-Knob 1 - Adjust camera position
-Knob 2 - Adjust parameters 1 of the object you are looking at (Individual for each object)
-Knob 3 - Adjust parameters 2 of the object you are looking at (Individual for each object)
-Knob 4 - Rotates the kaleidoscope (only when active)
+- All notes on Kick Track (Channel 1): Trigger different events on each object.
+- All notes on Snare Track (Channel 2): Trigger different events on each object.
+- All notes on Hat Track (Channel 3): Trigger different events on each object.
+- All notes on Sample Track (Channel 4): Trigger different events on each object.
 
 
-## Instruments
+### Synth Tracks
 
-Each Object reacts to the different tracks individually.
+- All notes on Bass Track (Channel 5): Trigger different events on each object.
+- All notes on Lead Track (Channel 6): Trigger different events on each object.
+- All notes on Arp Track (Channel 7): Trigger different events on each object.
+- All notes on Chord Track (Channel 8): Trigger different events on each object.
+
+
+### Motion Track
+
+- Knob 1 on page 1 on Motion Track (Channel 16 - CC 1): Change Camera Position.
+- Knob 2 on page 1 on Motion Track (Channel 16 - CC 2): Adjust parameter on each object individually.
+- Knob 3 on page 1 on Motion Track (Channel 16 - CC 3): Change rotation speed on each object.
+- Knob 4 on page 1 on Motion Track (Channel 16 - CC 4): Rotate the kaleidoscope.
+
+- Note 1 on Motion Track (Channel 16 - Note 53): Switch between objects.
+- Note 3 on Motion Track (Channel 16 - Note 55): Toggle Kaleidoscope.
+- Note 5 on Motion Track (Channel 16 - Note 57): Effect 1
+- Note 6 on Motion Track (Channel 16 - Note 59): Effect 2
+
+
+## Examples
+
+Here are some views that show the scenes and what you can do with it.
