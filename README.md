@@ -35,18 +35,18 @@ The rest of the pak reacts to the music that is playing.
 
 ### Drum Tracks
 
-- All notes on Kick Track (Channel 1): Trigger different events on each object.
-- All notes on Snare Track (Channel 2): Trigger different events on each object.
-- All notes on Hat Track (Channel 3): Trigger different events on each object.
-- All notes on Sample Track (Channel 4): Trigger different events on each object.
+- All notes on Kick Track (Channel 1): Triggers different events on each object.
+- All notes on Snare Track (Channel 2): Triggers different events on each object.
+- All notes on Hat Track (Channel 3): Triggers different events on each object.
+- All notes on Sample Track (Channel 4): Triggers different events on each object.
 
 
 ### Synth Tracks
 
-- All notes on Bass Track (Channel 5): Trigger different events on each object.
-- All notes on Lead Track (Channel 6): Trigger different events on each object.
-- All notes on Arp Track (Channel 7): Trigger different events on each object.
-- All notes on Chord Track (Channel 8): Trigger different events on each object.
+- All notes on Bass Track (Channel 5): Lights up stripes in the sky.
+- All notes on Lead Track (Channel 6): Lights up a part of the arcs in the scene.
+- All notes on Arp Track (Channel 7): Lights up a part of the arcs in the scene.
+- All notes on Chord Track (Channel 8): Lights up a part of the arcs in the scene.
 
 
 ### Motion Track
@@ -57,8 +57,8 @@ The rest of the pak reacts to the music that is playing.
 - Knob 4 on page 1 on Motion Track (Channel 16 - CC 4): Rotate the kaleidoscope.
 - Note 1 on Motion Track (Channel 16 - Note 53): Switch between objects.
 - Note 3 on Motion Track (Channel 16 - Note 55): Toggle Kaleidoscope.
-- Note 5 on Motion Track (Channel 16 - Note 57): Effect 1
-- Note 6 on Motion Track (Channel 16 - Note 59): Effect 2
+- Note 5 on Motion Track (Channel 16 - Note 57): Toggel a hue shift.
+- Note 6 on Motion Track (Channel 16 - Note 59): Toggle a gradient color.
 
 
 ## Examples
