@@ -7,7 +7,7 @@ A videopak for the teenage engineering op-z
 
 Venture into a world of refraction with the "Chroma Quad Videopak", an interactive experience that illuminates the realm of color and form.
 
-Wander through a surreal landscape where each object represents a distinct shade and shape, viewed through refractive surfaces to evoke a spectrum of emotions. As you interact with these objects, you will be drawn into the dynamic interplay of sound, color, and emotion, where each element seamlessly blends together to create a harmonious symphony.
+Wander through a surreal landscape where each object represents a distinct shade and shape, viewed through a refractive body to evoke a spectrum of emotions. As you interact with these objects, you will be drawn into the dynamic interplay of sound, color, and emotion, where each element seamlessly blends together to create a harmonious symphony.
 
 With a select few parameters, you can personalize your journey and delve into a kaleidoscope of sensory wonder, where the beauty of emotion is expressed through the artistry of light and sound.
 
@@ -19,13 +19,13 @@ Download the [latest release](https://github.com/matthiasmeissen/chroma-quad-vid
 
 ## How to use
 
-This videopak lets you explore four sound objects that represent different shades and shapes.
+This videopak lets you explore four sound objects that represent different shades and shapes.  
 To swicth between them use button 1 on the motion track.
 
-You can use the kaleidoscope to get immersed by the interplay of rythm and colour.
+You can use the kaleidoscope to get immersed by the interplay of rythm and colour.  
 To toggle kaleidoscope use button 2 on the motion track.
 
-By tweaking a few selected parameters you can dive deep into the experience and make it your won.
+By tweaking a few selected parameters you can dive deep into the experience and make it your won.  
 To change the parameters turn one of the four knobs on page 1 of the motion track.
 
 The rest of the pak reacts to the music that is playing.
