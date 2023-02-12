@@ -1,6 +1,6 @@
 # Chroma Quad Videopak
 
-A videopak for the teenage engineering op-z
+A videopak for the teenage engineering op-z.
 
 
 ## Intro
