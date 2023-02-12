@@ -14,7 +14,7 @@ With a select few parameters, you can personalize your journey and delve into a 
 
 ## How to install
 
-Download the latest release and install it in the op-z app.
+Download the [latest release](https://github.com/matthiasmeissen/chroma-quad-videopak/releases/tag/1.0.0) and install it in the op-z app.
 
 
 ## How to use
