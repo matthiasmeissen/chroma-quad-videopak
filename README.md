@@ -31,6 +31,11 @@ To change the parameters turn one of the four knobs on page 1 of the motion trac
 The rest of the pak reacts to the music that is playing.
 
 
+## Keymap
+
+![Keymap](https://github.com/matthiasmeissen/chroma-quad-videopak/blob/main/assets/chroma-quad-keymap-01.png)
+
+
 ## Parameters
 
 ### Drum Tracks
