@@ -63,7 +63,7 @@ The rest of the pak reacts to the music that is playing.
 - Note 1 on Motion Track (Channel 16 - Note 53): Switch objects.
 - Note 3 on Motion Track (Channel 16 - Note 55): Toggle kaleidoscope.
 - Note 5 on Motion Track (Channel 16 - Note 57): Toggel hue shift.
-- Note 6 on Motion Track (Channel 16 - Note 59): Toggle gradient color.
+- Note 7 on Motion Track (Channel 16 - Note 59): Toggle gradient color.
 
 
 ## Examples
