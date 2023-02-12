@@ -25,7 +25,7 @@ To switch between them use button 1 on the motion track.
 You can use the kaleidoscope to get immersed by the interplay of rythm and colour.  
 To toggle kaleidoscope use button 3 on the motion track.
 
-You can also change the colors of the scene and add a gradient to personalize your journey even more.
+You can also change the colors of the scene and add a gradient to personalize your journey even more.  
 To change colors use button 5 and to add a gradient use button 7 on the motion track.
 
 By tweaking a few selected parameters you can dive deep into the experience and make it your won.  
