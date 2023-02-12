@@ -23,7 +23,10 @@ This videopak lets you explore four sound objects that each represent different 
 To switch between them use button 1 on the motion track.
 
 You can use the kaleidoscope to get immersed by the interplay of rythm and colour.  
-To toggle kaleidoscope use button 2 on the motion track.
+To toggle kaleidoscope use button 3 on the motion track.
+
+Adjust the colors to a range that fits your emotions and customize your journey to express your personality.
+To change the hue of the scene use button 5 and to add a gradient use button 7 on the motion track.
 
 By tweaking a few selected parameters you can dive deep into the experience and make it your won.  
 To change the parameters turn one of the four knobs on page 1 of the motion track.
