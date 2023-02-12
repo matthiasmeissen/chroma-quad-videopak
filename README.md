@@ -56,14 +56,14 @@ The rest of the pak reacts to the music that is playing.
 
 ### Motion Track
 
-- Knob 1 on page 1 on Motion Track (Channel 16 - CC 1): Change Camera Position.
+- Knob 1 on page 1 on Motion Track (Channel 16 - CC 1): Change camera position.
 - Knob 2 on page 1 on Motion Track (Channel 16 - CC 2): Adjust parameter on each object individually.
 - Knob 3 on page 1 on Motion Track (Channel 16 - CC 3): Change rotation speed on each object.
 - Knob 4 on page 1 on Motion Track (Channel 16 - CC 4): Rotate the kaleidoscope.
-- Note 1 on Motion Track (Channel 16 - Note 53): Switch between objects.
-- Note 3 on Motion Track (Channel 16 - Note 55): Toggle Kaleidoscope.
-- Note 5 on Motion Track (Channel 16 - Note 57): Toggel a hue shift.
-- Note 6 on Motion Track (Channel 16 - Note 59): Toggle a gradient color.
+- Note 1 on Motion Track (Channel 16 - Note 53): Switch objects.
+- Note 3 on Motion Track (Channel 16 - Note 55): Toggle kaleidoscope.
+- Note 5 on Motion Track (Channel 16 - Note 57): Toggel hue shift.
+- Note 6 on Motion Track (Channel 16 - Note 59): Toggle gradient color.
 
 
 ## Examples
