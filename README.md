@@ -2,6 +2,8 @@
 
 A videopak for the teenage engineering op-z.
 
+![Preview](https://github.com/matthiasmeissen/chroma-quad-videopak/blob/main/assets/chroma-quad-preview-01.png)
+
 
 ## Intro
 
