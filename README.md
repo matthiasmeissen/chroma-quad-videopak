@@ -20,7 +20,7 @@ Download the [latest release](https://github.com/matthiasmeissen/chroma-quad-vid
 ## How to use
 
 This videopak lets you explore four sound objects that each represent different shades and shapes.  
-To swicth between them use button 1 on the motion track.
+To switch between them use button 1 on the motion track.
 
 You can use the kaleidoscope to get immersed by the interplay of rythm and colour.  
 To toggle kaleidoscope use button 2 on the motion track.
